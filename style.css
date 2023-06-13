@@ -1,0 +1,20 @@
+/* Fonts Link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.poppins{
+    font-family: poppins;
+}
+.p-color{
+    color: #777777;
+}
+.h-color{
+    color: #1D1D1D;
+}
+.golden{
+    color:gold;
+}
+.img-res{
+    height: 550px;
+    width: 100%;
+    object-fit: cover;
+}
